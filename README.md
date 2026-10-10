@@ -1,0 +1,59 @@
+<h1 align="center">Hey, I'm Ivan 👋</h1>
+
+<p align="center">
+  Backend engineer &amp; team lead. I build things in Rust on camera as <b>Compiles Eventually</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCXXd3jOjBp-SDsRDbMHwmJg"><img src="https://img.shields.io/badge/YouTube-Compiles%20Eventually-E8491D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Compiles Eventually"></a>
+  <a href="https://ivanko1608.github.io"><img src="https://img.shields.io/badge/Portfolio-ivanko1608.github.io-222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ivankram.github.io/"><img src="https://img.shields.io/badge/Blog-HashPigz-222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HashPigz security blog"></a>
+</p>
+
+---
+
+### 🎬 Now streaming: building a VPN in Rust (sort of)
+
+**[Freedom-TLS](https://github.com/Ivanko1608/freedom-tls)** started with no networking background and one goal: a VPN from scratch. It became a TLS-encrypted SOCKS5 tunnel, then got a custom `postcard` wire protocol, then a TUN interface that moves raw IP packets. Wrong turns are kept in.
+
+| Ep | Title | |
+|----|-------|---|
+| 1 | TLS + SOCKS5 tunnel from scratch (8 hours of mistakes) | [▶ Watch (4:50:00)](https://youtu.be/OoD57Bts04U) |
+| 2 | Custom wire protocol with postcard | 🛠 in progress |
+
+### 🧪 Other things I've built
+
+| Project | What it is |
+|---------|------------|
+| [**diy-term**](https://github.com/Ivanko1608/diy-term) | A shell in Rust using only the standard library. No crates. |
+| [**my-xxd**](https://github.com/Ivanko1608/my-xxd) | An `xxd` clone in C, from my YouTube retro programming series. |
+| [**ivanko1608.github.io**](https://github.com/Ivanko1608/ivanko1608.github.io) | My portfolio. React 19, TypeScript, Vite. |
+| [**dotfiles**](https://github.com/Ivanko1608/dotfiles) | Arch + Hyprland, configured in Lua, on an M1 MacBook Air via Asahi. |
+
+### 🛠 Stack
+
+![Rust](https://img.shields.io/badge/Rust-E8491D?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+
+7+ years of backend work across fintech, telecom (5G Core) and affiliate platforms. On the side I write malware analysis and HTB writeups, and placed **9th at Standoff 15**, a 3-day CTF with 200+ teams.
+
+### 📊 Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ivanko1608&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=E8491D&icon_color=E8491D">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ivanko1608&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8491D&icon_color=E8491D" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanko1608&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=E8491D">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanko1608&layout=compact&hide_border=true&bg_color=00000000&title_color=E8491D" alt="Top languages">
+  </picture>
+</p>
+
+<p align="center"><i>Most of what I've shipped is still running. Some of it even compiles on the first try.</i></p>
