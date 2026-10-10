@@ -12,21 +12,25 @@
 
 ---
 
-### 🎬 Now streaming: building a VPN in Rust (sort of)
+### 🎬 Freedom-TLS: building a VPN in Rust, on camera
 
 **[Freedom-TLS](https://github.com/Ivanko1608/freedom-tls)** started with no networking background and one goal: a VPN from scratch. It became a TLS-encrypted SOCKS5 tunnel, then got a custom `postcard` wire protocol, then a TUN interface that moves raw IP packets. Wrong turns are kept in.
 
-| Ep | Title | |
-|----|-------|---|
-| 1 | TLS + SOCKS5 tunnel from scratch (8 hours of mistakes) | [▶ Watch (4:50:00)](https://youtu.be/OoD57Bts04U) |
-| 2 | Custom wire protocol with postcard | 🛠 in progress |
+| Ep | Video | Length |
+|----|-------|--------|
+| 1 | [Building a VPN in Rust (ended up with a tunnel)](https://www.youtube.com/watch?v=OoD57Bts04U) | 4:47:45 |
+| 2.1 | [Six hours of protobuf I had to throw away](https://www.youtube.com/watch?v=nlYJtFqZlNo) | 6:21:50 |
+| 2.2 | [From deleting everything to a working VPN](https://www.youtube.com/watch?v=gjz9d9XygLc) | 7:37:08 |
+| 3 | [I built a real VPN in Rust and it only cost me my sanity](https://www.youtube.com/watch?v=xjiw2QxcJkI) | 5:16:31 |
+
+~24 hours so far. [▶ Full playlist](https://www.youtube.com/playlist?list=PL5KHCLK_1CdeKeiIv00NKXlORxW6qD8NN)
 
 ### 🧪 Other things I've built
 
 | Project | What it is |
 |---------|------------|
 | [**diy-term**](https://github.com/Ivanko1608/diy-term) | A shell in Rust using only the standard library. No crates. |
-| [**my-xxd**](https://github.com/Ivanko1608/my-xxd) | An `xxd` clone in C, from my YouTube retro programming series. |
+| [**my-xxd**](https://github.com/Ivanko1608/my-xxd) | An `xxd` clone in C. [▶ Writing xxd in C like it's the 90s](https://www.youtube.com/watch?v=m5mBVyG3riA) |
 | [**ivanko1608.github.io**](https://github.com/Ivanko1608/ivanko1608.github.io) | My portfolio. React 19, TypeScript, Vite. |
 | [**dotfiles**](https://github.com/Ivanko1608/dotfiles) | Arch + Hyprland, configured in Lua, on an M1 MacBook Air via Asahi. |
 
