@@ -10,6 +10,8 @@
   <a href="https://ivankram.github.io/"><img src="https://img.shields.io/badge/Blog-HashPigz-222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HashPigz security blog"></a>
 </p>
 
+<div align="center">
+
 ---
 
 ### 🎬 Freedom-TLS: building a VPN in Rust, on camera
@@ -76,3 +78,5 @@
 </p>
 
 <p align="center"><i>Most of what I've shipped is still running. Some of it even compiles on the first try.</i></p>
+
+</div>
