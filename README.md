@@ -25,6 +25,21 @@
 
 ~24 hours so far. [▶ Full playlist](https://www.youtube.com/playlist?list=PL5KHCLK_1CdeKeiIv00NKXlORxW6qD8NN)
 
+### 💸 bbbudget: a budget planner that stays on your machine
+
+**[bbbudget](https://github.com/Ivanko1608/bbbudget)** plans multi-currency household budgets: month-by-month projections, debt payoff, savings goals and what-if scenarios. Money math is exact to the cent, with no floating point anywhere, and FX transfer fees are counted, not ignored. No account, no cloud, no telemetry. Web UI, CLI and an MCP server in one static Go binary, so you can ask Claude *"what if rent goes up to 1200?"*
+
+<p align="center">
+  <a href="https://github.com/Ivanko1608/bbbudget">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivanko1608/bbbudget/main/docs/screenshot-dark.png">
+      <img alt="bbbudget web UI showing a fictional household's monthly split and insights" src="https://raw.githubusercontent.com/Ivanko1608/bbbudget/main/docs/screenshot-light.png" width="640">
+    </picture>
+  </a>
+</p>
+
+[⬇ Releases](https://github.com/Ivanko1608/bbbudget/releases) · first release candidate (v0.1.0-rc1) is out: .deb, .rpm and Arch packages for x86_64 and arm64, plus a Nix flake
+
 ### 🧪 Other things I've built
 
 | Project | What it is |
